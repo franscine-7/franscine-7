@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @franscine-7
-- 👀 I’m interested in music and painting
+- 👀 I’m interested in music and series
 - 🌱 I’m currently learning how to github work
 - 💞️ I’m looking to learn more about github
 - 📫 How to reach me just email me
